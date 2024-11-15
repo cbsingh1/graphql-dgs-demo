@@ -1,0 +1,122 @@
+[
+  {
+    "showId": 1,
+    "title": "Stranger Things",
+    "description": "A group of kids in the 1980s face supernatural threats in their small town.",
+    "categories": ["Drama", "Sci-Fi", "Horror"],
+    "type": "SERIES",
+    "numberOfEpisodes": 34,
+    "duration": "45 min",
+    "artworkUrl": null
+  },
+  {
+    "showId": 2,
+    "title": "The Witcher",
+    "description": "A monster hunter struggles to find his place in a world where people are often more wicked than beasts.",
+    "categories": ["Drama", "Fantasy", "Action"],
+    "type": "SERIES",
+    "numberOfEpisodes": 16,
+    "duration": "50 min",
+    "artworkUrl": null
+  },
+  {
+    "showId": 3,
+    "title": "Breaking Bad",
+    "description": "A high school chemistry teacher turned methamphetamine manufacturer struggles with morality and family.",
+    "categories": ["Crime", "Drama", "Thriller"],
+    "type": "SERIES",
+    "numberOfEpisodes": 62,
+    "duration": "47 min",
+    "artworkUrl": null
+  },
+  {
+    "showId": 4,
+    "title": "The Crown",
+    "description": "A chronicle of the life of Queen Elizabeth II and the events that shaped the second half of the 20th century.",
+    "categories": ["Drama", "Biography", "History"],
+    "type": "SERIES",
+    "numberOfEpisodes": 40,
+    "duration": "58 min",
+    "artworkUrl": null
+  },
+  {
+    "showId": 5,
+    "title": "Black Mirror",
+    "description": "An anthology series exploring a twisted, high-tech multiverse where humanity's greatest innovations meet its darkest instincts.",
+    "categories": ["Drama", "Sci-Fi", "Thriller"],
+    "type": "SERIES",
+    "numberOfEpisodes": 22,
+    "duration": "60 min",
+    "artworkUrl": null
+  },
+  {
+    "showId": 6,
+    "title": "Money Heist",
+    "description": "A criminal mastermind plans the biggest heist in history to print billions of euros in the Royal Mint of Spain.",
+    "categories": ["Crime", "Thriller", "Drama"],
+    "type": "SERIES",
+    "numberOfEpisodes": 31,
+    "duration": "45 min",
+    "artworkUrl": null
+  },
+  {
+    "showId": 7,
+    "title": "Narcos",
+    "description": "A gripping saga of the life and exploits of Colombian drug lord Pablo Escobar and the DEA agents on his trail.",
+    "categories": ["Crime", "Drama", "Biography"],
+    "type": "SERIES",
+    "numberOfEpisodes": 30,
+    "duration": "49 min",
+    "artworkUrl": null
+  },
+  {
+    "showId": 8,
+    "title": "Peaky Blinders",
+    "description": "A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps.",
+    "categories": ["Crime", "Drama"],
+    "type": "SERIES",
+    "numberOfEpisodes": 36,
+    "duration": "60 min",
+    "artworkUrl": null
+  },
+  {
+    "showId": 9,
+    "title": "Lucifer",
+    "description": "The devil relocates to Los Angeles and opens a nightclub, but his life takes an unexpected turn.",
+    "categories": ["Drama", "Fantasy", "Comedy"],
+    "type": "SERIES",
+    "numberOfEpisodes": 93,
+    "duration": "42 min",
+    "artworkUrl": null
+  },
+  {
+    "showId": 10,
+    "title": "The Haunting of Hill House",
+    "description": "Flashing between past and present, a fractured family confronts haunting memories of their old home.",
+    "categories": ["Horror", "Drama", "Mystery"],
+    "type": "SERIES",
+    "numberOfEpisodes": 10,
+    "duration": "50 min",
+    "artworkUrl": null
+  },
+  {
+    "showId": 11,
+    "title": "The Umbrella Academy",
+    "description": "A dysfunctional family of adopted sibling superheroes reunite to solve the mystery of their father's death.",
+    "categories": ["Sci-Fi", "Fantasy", "Action"],
+    "type": "SERIES",
+    "numberOfEpisodes": 30,
+    "duration": "50 min",
+    "artworkUrl": null
+  },
+  {
+    "showId": 12,
+    "title": "Ozark",
+    "description": "A financial planner relocates his family to the Ozarks to launder money for a drug cartel.",
+    "categories": ["Crime", "Drama", "Thriller"],
+    "type": "SERIES",
+    "numberOfEpisodes": 44,
+    "duration": "60 min",
+    "artworkUrl": null
+  }
+]
